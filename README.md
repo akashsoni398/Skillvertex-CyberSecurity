@@ -21,8 +21,8 @@
     burpsuite - https://portswigger.net/burp/communitydownload
         
 # Assignments & Projects
-    Submission form Link - 
-   
+    Submission - Skillvertex LMS website (under Courses -> Projects section)
+
     # Assignment 1 - Reconnaissance
         Create a reconnaissance report of an e-commerce business using the following reconnaissance scans: 
             Search reconnaissance (search engine)
@@ -36,3 +36,12 @@
             Footprinting using google
             Shodan.io
             Job post websites (indeed, naukri, etc)
+        Format - PDF file
+        Due Date - 19th Oct, 2023
+
+    # Assignment 2 - Vulnerability Assessment
+        Create a vulnerability assessment report for an e-commerce business.
+            Methodologies - Reconnaissance, Network Scanning and Vulnerability Scanning
+        
+        Format - PDF file
+        Due Date - 27th Oct, 2023
