@@ -6,6 +6,7 @@
     Module 4 - Windows and Linux Commands
         Linux commands - https://www.javatpoint.com/linux-commands
         Windows commands - https://www.freecodecamp.org/news/command-line-commands-cli-tutorial/
+    Module 6 - https://github.com/Yadav97/cyberSecurity/ (ceh v9 malwares module)
 
 # Cs Tools Download Links:
     Nmap - https://nmap.org/download.html#windows
