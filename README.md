@@ -18,6 +18,7 @@
     Windows 7 - https://drive.google.com/file/d/1TnvS89gBDT5F6eavZUU-lb7SekW9PdqS/view?usp=sharing
     Dumpsec - https://www.systemtools.com/somarsoft/index.html , https://systemtools-dumpsec.informer.com/2.8/
     Hiren Boot - https://www.hirensbootcd.org/download/
+                 https://www.hirensbootcd.org/old-versions/
     Wireshark - https://www.wireshark.org/
     JPS Virus Maker - https://www.bookofnetwork.com/2576/download/Download-JPS-Virus-Maker-software-for-PC-free
     Delme Virus Maker -
