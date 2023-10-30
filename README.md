@@ -49,3 +49,11 @@
         
         Format - PDF file
         Due Date - 27th Oct, 2023
+
+    # Assignment 3 - Exploiting Metasploitable2 OS
+        Exploit all services running on metasploitable 2 operating system using Metasploit in kaliOS.
+            Methodology - https://blog.securelayer7.net/attacking-metasploitable-2-using-metasploit/
+            Target - create a VM for metasploitable2 as a target.
+
+        Format - PDF file
+        Due Date - 4th Nov, 2023
