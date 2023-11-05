@@ -66,6 +66,7 @@
             Tutorial for Owasptop10 -  https://medium.com/@fathindos.fd/tryhackme-owasp-top-10-walkthrough-c12d89bed42b
             Target - Virtual websites in TryHackMe server.
 
+    
         Format - PDF file. The report will contain - Name of the tool, a Description of the tool, and How to use it(using screenshots)
         Due Date - 12th Nov, 2023
 
@@ -88,6 +89,9 @@
              Delme Virus Maker
              JPS Virus Maker
              Burpsuite
+
+            Format - PDF file. The report will contain - Name of the tool, a Description of the tool, and How to use it(using screenshots)
+            Due Date - 12th Nov, 2023
 
     # Project 2 - Create a VAPT report on VulnWeb using system attacks on server and web based attacks on testphp.vulnweb.com.
         Target -  testphp.vulnweb.com Website and server
