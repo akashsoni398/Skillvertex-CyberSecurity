@@ -25,7 +25,7 @@
     Delme Virus Maker -
     burpsuite - https://portswigger.net/burp/communitydownload
         
-# Assignments & Projects
+# Assignments
     Submission - Skillvertex LMS website (under Courses -> Projects section)
 
     # Assignment 1 - Reconnaissance
@@ -58,3 +58,41 @@
 
         Format - PDF file
         Due Date - 4th Nov, 2023
+
+    # Assignment 4 - Exploiting Web/Network Security
+        Complete all the web security theoretical & practical tasks provided in TryHackMe OWASP Top10 room.
+            TryHackMe Room Link - https://tryhackme.com/room/owasptop10
+            Connecting to virtual server - https://www.youtube.com/watch?v=IvUsXg8dKds
+            Tutorial for Owasptop10 -  https://medium.com/@fathindos.fd/tryhackme-owasp-top-10-walkthrough-c12d89bed42b
+            Target - Virtual websites in TryHackMe server.
+
+        Format - PDF file. The report will contain - Name of the tool, a Description of the tool, and How to use it(using screenshots)
+        Due Date - 12th Nov, 2023
+
+ # Projects
+     # Project 1 - Create a report on all the tools covered during training.
+         Target - Virtual Machines and Acunetix Hacking Websites.
+         Tools List:
+             Samspade
+             GHDB
+             Shodan
+             Nmap 
+             Nessus
+             VirtualBox
+             Kali Linux
+             Metasploitable 2
+             Metasploit Framework
+             Dumpsec
+             Wireshark
+             Hirenboot
+             Delme Virus Maker
+             JPS Virus Maker
+             Burpsuite
+
+    # Project 2 - Create a VAPT report on VulnWeb using system attacks on server and web based attacks on testphp.vulnweb.com.
+        Target -  testphp.vulnweb.com Website and server
+    
+    Format - PDF file
+    Due Date - 5th December, 2023
+             
+             
