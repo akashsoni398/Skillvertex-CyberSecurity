@@ -42,14 +42,12 @@
             Shodan.io
             Job post websites (indeed, naukri, etc)
         Format - PDF file
-        Due Date - 19th Oct, 2023
 
     # Assignment 2 - Vulnerability Assessment
         Create a vulnerability assessment report for an e-commerce business.
             Methodologies - Reconnaissance, Network Scanning and Vulnerability Scanning
         
         Format - PDF file
-        Due Date - 27th Oct, 2023
 
     # Assignment 3 - Exploiting Metasploitable2 OS
         Exploit all services running on metasploitable 2 operating system using Metasploit in kaliOS.
@@ -57,7 +55,6 @@
             Target - create a VM for metasploitable2 as a target.
 
         Format - PDF file
-        Due Date - 4th Nov, 2023
 
     # Assignment 4 - Exploiting Web/Network Security
         Complete all the web security theoretical & practical tasks provided in TryHackMe OWASP Top10 room.
@@ -68,7 +65,6 @@
 
     
         Format - PDF file. The report will contain - Name of the tool, a Description of the tool, and How to use it(using screenshots)
-        Due Date - 12th Nov, 2023
 
  # Projects
      # Project 1 - Create a report on all the tools covered during training.
@@ -91,12 +87,10 @@
              Burpsuite
 
             Format - PDF file. The report will contain - Name of the tool, a Description of the tool, and How to use it(using screenshots)
-            Due Date - 12th Nov, 2023
 
     # Project 2 - Create a VAPT report on VulnWeb using system attacks on server and web based attacks on testphp.vulnweb.com.
         Target -  testphp.vulnweb.com Website and server
     
     Format - PDF file
-    Due Date - 5th December, 2023
              
              
