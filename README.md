@@ -79,11 +79,7 @@
              Kali Linux
              Metasploitable 2
              Metasploit Framework
-             Dumpsec
              Wireshark
-             Hirenboot
-             Delme Virus Maker
-             JPS Virus Maker
              Burpsuite
 
             Format - PDF file. The report will contain - Name of the tool, a Description of the tool, and How to use it(using screenshots)
